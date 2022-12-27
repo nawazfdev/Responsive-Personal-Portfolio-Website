@@ -25,7 +25,8 @@ Tasks breakdown
 Follow steps:
 
 1. Clone repo :
-`git clone https://github.com/kraten/vehicle-speed-check`
+`git clone https://github.com/nawazfdev
+/vehicle-speed-check`
 
 2. cd (change directory) into vehicle-speed-check
 `cd vehicle-speed-check`
